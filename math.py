@@ -1,3 +1,4 @@
 
 def sum(x, y):
-    return x - y
+    """ Adding x and y and return the sum """
+    return x + y
